@@ -2,10 +2,11 @@
 I am a Junior Engineer who is passionate about Robotics and Mechatronics. 
 
 ### Techincal Skills:
-- Programming: C++, JavaScript, Python, HTML, MATLAB
-- Hardware & IoT: Raspberry Pi, ESP32, Sensor Control
-- Design & Simulation: AutoCAD, Fusion 360, SolidWorks, Orca Slicer, Ansys fluent/Icepak
-- Prototyping:  Soldering, Laser Cutting, FDM/SLA 3D printing
+- Mechanical Design & CAD: SolidWorks, AutoCAD, Fusion 360, Mechanical Assemblies, 3D Modeling, Engineering Drawings
+- Analysis & Simulation: ANSYS (Fluent, Icepak)
+- Prototyping & Testing: FDM/SLA 3D Printing, Laser Cutting, Soldering, Mechanical Assembly, Bench Testing
+- Programming & Controls: C++, Python, MATLAB, Arduino
+- Hardware Platforms: Raspberry Pi, ESP32, Sensors
 
 ## Education
 Master of Science in Mechanical Engineering | San Jose State University at San Jose,CA,USA (_September 2023 - May 2025_)
