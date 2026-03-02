@@ -26,3 +26,15 @@ A feedback-controlled, synergy-based hand exoskeleton was developed for post-str
 - Arduino-based controller with UART to TTL communication.
 
 #### Control & Embedded System
+
+- MightyZap 12 Lf-17PT-53 linear actuators with built-in encoders.
+- Real-time potentiometer input mapped to actuator API position values.
+- Close-loop position feedback via half-duplex TTL communication.
+- Dualk-actuator synchronization validated under variable speed condition.
+
+#### Performance Results
+
+- Consistents 0.3 s response time across 100%, 50%, and 25% speed settings.
+- Stable dual-actuator communication without significant tracking error.
+- Demonstrated real-time trajectory replication suitable for rehabilitation use.
+- Latency primarily attributed to UART communcation overhead.
