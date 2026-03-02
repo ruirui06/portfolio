@@ -45,4 +45,7 @@ A feedback-controlled, synergy-based hand exoskeleton was developed for post-str
 - Demonstrated real-time trajectory replication suitable for rehabilitation use.
 - Latency primarily attributed to UART communcation overhead.
 
-<img align = "left" src="/assets/img/maxspeed2actuators.jpg" width="50%" img align = "right" src="/assets/img/halfspeed2actuators.jpg" width="50%"/>
+<p align="center">
+  <img src="/assets/img/maxspeed2actuators.jpg" width="50%">
+  <img src="/assets/img/halfspeed2actuators.jpg" width="50%">
+</p>
