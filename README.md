@@ -46,6 +46,6 @@ A feedback-controlled, synergy-based hand exoskeleton was developed for post-str
 - Latency primarily attributed to UART communcation overhead.
 
 <p align="center">
-  <img src="/assets/img/maxspeed2actuators.jpg" width="50%">
-  <img src="/assets/img/halfspeed2actuators.jpg" width="50%">
+  <img src="/assets/img/maxspeed2actuators.jpg" width="49%">
+  <img src="/assets/img/halfspeed2actuators.jpg" width="49%">
 </p>
