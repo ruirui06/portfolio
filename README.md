@@ -36,6 +36,8 @@ A feedback-controlled, synergy-based hand exoskeleton was developed for post-str
 - Close-loop position feedback via half-duplex TTL communication.
 - Dualk-actuator synchronization validated under variable speed condition.
 
+![MECHATRONICS SETUP](/assets/img/realsetup.png)
+
 #### Performance Results
 
 - Consistents 0.3 s response time across 100%, 50%, and 25% speed settings.
