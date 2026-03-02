@@ -27,6 +27,8 @@ A feedback-controlled, synergy-based hand exoskeleton was developed for post-str
 - Custom mechanical coupling for improved force transmission.
 - Arduino-based controller with UART to TTL communication.
 
+[SYSTEM SCHEMATIC](/assets/img/schematic.png)
+
 #### Control & Embedded System
 
 - MightyZap 12 Lf-17PT-53 linear actuators with built-in encoders.
