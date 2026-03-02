@@ -17,3 +17,12 @@ Bachelor of Engineering in Mechanical | Carleton University at Ottawa,ON,Canda (
 ### Design and Implementation of a Feedback Controller for a Bio-Inspired Hand Exoskeleton
 
 A feedback-controlled, synergy-based hand exoskeleton was developed for post-stroke rehabilitation. A soft, sensorized glove with potentiometers detects hand movements, processed by an **Arduino** to control linear servo actuators via TTL communication. Encoders enable precise, real-time replication of finger gestures. Using a synergy model, two actuators drive all five fingers, resulting in a lightweight (423 g), low-cost (~$440), fully 3D-printable design. Tests showed consistent 0.3 s response times across speeds, confirming suitability for real-time rehabilitation. Design updates including an improved actuator casing, enhanced straps, and a refined synergy mechanism improved comfort and adaptability.
+
+#### System Architecture
+
+- 2 linear servo actuators control five fingers via synergy grouping.
+- Fully 3D-printed mechanical structure (PLA) with redesigned actuator mounts.
+- Custom mechanical coupling for improved force transmission.
+- Arduino-based controller with UART to TTL communication.
+
+#### Control & Embedded System
