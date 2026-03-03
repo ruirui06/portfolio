@@ -1,5 +1,5 @@
 ## About me
-I am a Junior Engineer who is passionate about Robotics and Mechatronics. 
+Mechanical Engineer with hands-on prototyping and CAD-based design experience, specializing in SolidWorks modeling and mechanical system optimization.
 
 ### Techincal Skills:
 - Mechanical Design & CAD: SolidWorks, AutoCAD, Fusion 360, Mechanical Assemblies, 3D Modeling, Engineering Drawings
