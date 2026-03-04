@@ -9,10 +9,10 @@ Mechanical Engineer with hands-on prototyping and CAD-based design experience, s
 - Hardware Platforms: Raspberry Pi, ESP32, Sensors
 
 ## Education
-Master of Science in Mechanical Engineering | San Jose State University at San Jose,CA,USA (_September 2023 - May 2025_)
-
-Bachelor of Engineering in Mechanical | Carleton University at Ottawa,ON,Canda (_September 2018 - April 2022_)
-
+###San Jose State University at San Jose,CA,USA (_September 2023 - May 2025_)
+- Master of Science in Mechanical Engineering 
+###Carleton University at Ottawa,ON,Canda (_September 2018 - April 2022_)
+- Bachelor of Engineering in Mechanical
 
 ## Projects
 ### Design and Implementation of a Feedback Controller for a Bio-Inspired Hand Exoskeleton
