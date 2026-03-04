@@ -10,6 +10,7 @@ Mechanical Engineer with hands-on prototyping and CAD-based design experience, s
 
 ## Education
 Master of Science in Mechanical Engineering | San Jose State University at San Jose,CA,USA (_September 2023 - May 2025_)
+
 Bachelor of Engineering in Mechanical | Carleton University at Ottawa,ON,Canda (_September 2018 - April 2022_)
 
 
